@@ -1,0 +1,5 @@
+C:\Users\okocs_000\Documents\codecool\c_sharp_2nd_si_week\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe.config
+C:\Users\okocs_000\Documents\codecool\c_sharp_2nd_si_week\GenericCollections\GenericCollections\bin\Debug\GenericCollections.exe
+C:\Users\okocs_000\Documents\codecool\c_sharp_2nd_si_week\GenericCollections\GenericCollections\bin\Debug\GenericCollections.pdb
+C:\Users\okocs_000\Documents\codecool\c_sharp_2nd_si_week\GenericCollections\GenericCollections\obj\Debug\GenericCollections.exe
+C:\Users\okocs_000\Documents\codecool\c_sharp_2nd_si_week\GenericCollections\GenericCollections\obj\Debug\GenericCollections.pdb

@@ -1,0 +1,6 @@
+C:\Users\okocs_000\Documents\codecool\c_sharp_2nd_si_week\DictionaryCollections\DictionaryCollections\bin\Debug\DictionaryCollections.exe.config
+C:\Users\okocs_000\Documents\codecool\c_sharp_2nd_si_week\DictionaryCollections\DictionaryCollections\bin\Debug\DictionaryCollections.exe
+C:\Users\okocs_000\Documents\codecool\c_sharp_2nd_si_week\DictionaryCollections\DictionaryCollections\bin\Debug\DictionaryCollections.pdb
+C:\Users\okocs_000\Documents\codecool\c_sharp_2nd_si_week\DictionaryCollections\DictionaryCollections\obj\Debug\DictionaryCollections.csprojResolveAssemblyReference.cache
+C:\Users\okocs_000\Documents\codecool\c_sharp_2nd_si_week\DictionaryCollections\DictionaryCollections\obj\Debug\DictionaryCollections.exe
+C:\Users\okocs_000\Documents\codecool\c_sharp_2nd_si_week\DictionaryCollections\DictionaryCollections\obj\Debug\DictionaryCollections.pdb
